@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATtiny85</DEVICE>
+ <WORKING_DIR>C:\Users\Phaedra\Desktop\github\ATtiny45-blink</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\tn85def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.asm</FILE><LINE>40</LINE></start>
+  <isr><FILE>C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.asm</FILE><LINE>21</LINE></isr>
+  <isrx><FILE>C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.asm</FILE><LINE>32</LINE></isrx>
+  <clrled><FILE>C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.asm</FILE><LINE>30</LINE></clrled>
+  <loop><FILE>C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.asm</FILE><LINE>67</LINE></loop>
+ </LABELS>
+</ASSEMBLER_INFO>

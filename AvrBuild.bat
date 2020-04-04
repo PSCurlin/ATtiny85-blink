@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "C:\Users\Phaedra\Desktop\github\ATtiny45-blink\labels.tmp" -fI -W+ie -C V2 -o "C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.hex" -d "C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.obj" -e "C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.eep" -m "C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.map" "C:\Users\Phaedra\Desktop\github\ATtiny45-blink\led-blink.asm"
